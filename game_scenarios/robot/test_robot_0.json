@@ -1,1 +1,180 @@
-{"scene": {"id": "sc_0", "location": "festival", "speaker": "participant", "round": 0, "positions": {"pos_1": [0, 0, 2, 2], "pos_2": [2, 0, 4, 2], "pos_3": [4, 0, 6, 2], "pos_4": [6, 0, 8, 2], "pos_5": [8, 0, 10, 2], "pos_6": [0, 10, 2, 12], "pos_7": [0, 12, 2, 14], "pos_8": [0, 14, 2, 16], "pos_9": [0, 16, 2, 18]}}, "main_characters": [{"id": "m_0", "age": 44, "sex": "man", "skin_colour": "wit", "name": "Simon", "hair_style": "paardenstaart", "facial_hair": "baard", "hair_type": "stijl_haar", "hair_colour": "rood", "accessory": "hoed", "top": "zwart_shirt", "bottom": "blauw_broek", "shoes": "wit_schoenen", "position": "pos_2"}, {"id": "m_1", "age": 36, "sex": "man", "skin_colour": "van_kleur", "name": "Alex", "hair_style": "kort", "facial_hair": "snor", "hair_type": "stijl_haar", "hair_colour": "bruin", "accessory": "bril", "top": "rood_sweater", "bottom": "bruin_korte_broek", "shoes": "rood_schoenen", "position": "pos_8"}, {"id": "m_2", "age": 52, "sex": "man", "skin_colour": "wit", "name": "Mostafa", "hair_style": "kaal", "facial_hair": "baard", "hair_type": "geen", "hair_colour": "geen", "accessory": "pet", "top": "zwart_jas", "bottom": "rood_korte_broek", "shoes": "rood_schoenen", "position": "pos_5"}, {"id": "m_3", "age": 56, "sex": "vrouw", "skin_colour": "van_kleur", "name": "Zahra", "hair_style": "paardenstaart", "facial_hair": "none", "hair_type": "stijl_haar", "hair_colour": "grijs", "accessory": "oorbellen", "top": "rood_sweater", "bottom": "bruin_broek", "shoes": "wit_schoenen", "position": "pos_1"}], "side_characters": [{"id": "s_0", "age": 66, "sex": "man", "skin_colour": "van_kleur", "name": "geen", "hair_style": "kaal", "facial_hair": "geen", "hair_type": "geen", "hair_colour": "geen", "accessory": "hoed", "top": "blauw_jas", "bottom": "zwart_korte_broek", "shoes": "zwart_schoenen", "position": "pos_7"}, {"id": "s_1", "age": 57, "sex": "vrouw", "skin_colour": "wit", "name": "none", "hair_style": "paardenstaart", "facial_hair": "none", "hair_type": "stijl_haar", "hair_colour": "grijs", "accessory": "geen", "top": "blauw_shirt", "bottom": "blauw_broek", "shoes": "bruin_schoenen", "position": "pos_9"}, {"id": "s_2", "age": 77, "sex": "vrouw", "skin_colour": "wit", "name": "none", "hair_style": "kort", "facial_hair": "none", "hair_type": "stijl_haar", "hair_colour": "wit", "accessory": "hoed", "top": "rood_jurk", "bottom": "geen", "shoes": "bruin_schoenen", "position": "pos_3"}]}
+{
+  "scene": {
+    "id": "sc_0",
+    "location": "festival",
+    "speaker": "participant",
+    "round": 0,
+    "positions": {
+      "pos_1": [
+        0,
+        0,
+        2,
+        2
+      ],
+      "pos_2": [
+        2,
+        0,
+        4,
+        2
+      ],
+      "pos_3": [
+        4,
+        0,
+        6,
+        2
+      ],
+      "pos_4": [
+        6,
+        0,
+        8,
+        2
+      ],
+      "pos_5": [
+        8,
+        0,
+        10,
+        2
+      ],
+      "pos_6": [
+        0,
+        10,
+        2,
+        12
+      ],
+      "pos_7": [
+        0,
+        12,
+        2,
+        14
+      ],
+      "pos_8": [
+        0,
+        14,
+        2,
+        16
+      ],
+      "pos_9": [
+        0,
+        16,
+        2,
+        18
+      ]
+    }
+  },
+  "main_characters": [
+    {
+      "id": "m_0",
+      "age": 44,
+      "sex": "man",
+      "skin_colour": "wit",
+      "name": "Simon",
+      "hair_style": "paardenstaart",
+      "facial_hair": "baard",
+      "hair_type": "stijl_haar",
+      "hair_colour": "rood",
+      "accessory": "hoed",
+      "top": "zwart_shirt",
+      "bottom": "blauw_broek",
+      "shoes": "wit_schoenen",
+      "position": "pos_2"
+    },
+    {
+      "id": "m_1",
+      "age": 36,
+      "sex": "man",
+      "skin_colour": "van_kleur",
+      "name": "Alex",
+      "hair_style": "kort",
+      "facial_hair": "snor",
+      "hair_type": "stijl_haar",
+      "hair_colour": "bruin",
+      "accessory": "bril",
+      "top": "rood_sweater",
+      "bottom": "bruin_korte_broek",
+      "shoes": "rood_schoenen",
+      "position": "pos_8"
+    },
+    {
+      "id": "m_2",
+      "age": 52,
+      "sex": "man",
+      "skin_colour": "wit",
+      "name": "Mostafa",
+      "hair_style": "kaal",
+      "facial_hair": "baard",
+      "hair_type": "geen",
+      "hair_colour": "geen",
+      "accessory": "pet",
+      "top": "zwart_jas",
+      "bottom": "rood_korte_broek",
+      "shoes": "rood_schoenen",
+      "position": "pos_5"
+    },
+    {
+      "id": "m_3",
+      "age": 56,
+      "sex": "vrouw",
+      "skin_colour": "van_kleur",
+      "name": "Zahra",
+      "hair_style": "paardenstaart",
+      "facial_hair": "none",
+      "hair_type": "stijl_haar",
+      "hair_colour": "grijs",
+      "accessory": "oorbellen",
+      "top": "rood_sweater",
+      "bottom": "bruin_broek",
+      "shoes": "wit_schoenen",
+      "position": "pos_1"
+    }
+  ],
+  "side_characters": [
+    {
+      "id": "s_0",
+      "age": 66,
+      "sex": "man",
+      "skin_colour": "van_kleur",
+      "name": "geen",
+      "hair_style": "kaal",
+      "facial_hair": "geen",
+      "hair_type": "geen",
+      "hair_colour": "geen",
+      "accessory": "hoed",
+      "top": "blauw_jas",
+      "bottom": "zwart_korte_broek",
+      "shoes": "zwart_schoenen",
+      "position": "pos_7"
+    },
+    {
+      "id": "s_1",
+      "age": 57,
+      "sex": "vrouw",
+      "skin_colour": "wit",
+      "name": "none",
+      "hair_style": "paardenstaart",
+      "facial_hair": "none",
+      "hair_type": "stijl_haar",
+      "hair_colour": "grijs",
+      "accessory": "geen",
+      "top": "blauw_shirt",
+      "bottom": "blauw_broek",
+      "shoes": "bruin_schoenen",
+      "position": "pos_9"
+    },
+    {
+      "id": "s_2",
+      "age": 77,
+      "sex": "vrouw",
+      "skin_colour": "wit",
+      "name": "none",
+      "hair_style": "kort",
+      "facial_hair": "none",
+      "hair_type": "stijl_haar",
+      "hair_colour": "wit",
+      "accessory": "hoed",
+      "top": "rood_jurk",
+      "bottom": "geen",
+      "shoes": "bruin_schoenen",
+      "position": "pos_3"
+    }
+  ]
+}
