@@ -1,0 +1,180 @@
+{
+  "scene": {
+    "id": "sc_1",
+    "location": "strand",
+    "speaker": "participant",
+    "round": 1,
+    "positions": {
+      "pos_1": [
+        0,
+        0,
+        2,
+        2
+      ],
+      "pos_2": [
+        2,
+        0,
+        4,
+        2
+      ],
+      "pos_3": [
+        4,
+        0,
+        6,
+        2
+      ],
+      "pos_4": [
+        6,
+        0,
+        8,
+        2
+      ],
+      "pos_5": [
+        8,
+        0,
+        10,
+        2
+      ],
+      "pos_6": [
+        0,
+        10,
+        2,
+        12
+      ],
+      "pos_7": [
+        0,
+        12,
+        2,
+        14
+      ],
+      "pos_8": [
+        0,
+        14,
+        2,
+        16
+      ],
+      "pos_9": [
+        0,
+        16,
+        2,
+        18
+      ]
+    }
+  },
+  "main_characters": [
+    {
+      "id": "m_0",
+      "age": 44,
+      "sex": "man",
+      "skin_colour": "wit",
+      "name": "Simon",
+      "hair_style": "paardenstaart",
+      "facial_hair": "baard",
+      "hair_type": "stijl_haar",
+      "hair_colour": "rood",
+      "accessory": "hoed",
+      "top": "blauw_zwembroek",
+      "bottom": "blauw_zwembroek",
+      "shoes": "geen",
+      "position": "pos_4"
+    },
+    {
+      "id": "m_1",
+      "age": 36,
+      "sex": "man",
+      "skin_colour": "van_kleur",
+      "name": "Alex",
+      "hair_style": "kort",
+      "facial_hair": "snor",
+      "hair_type": "stijl_haar",
+      "hair_colour": "bruin",
+      "accessory": "bril",
+      "top": "blauw_zwembroek",
+      "bottom": "blauw_zwembroek",
+      "shoes": "geen",
+      "position": "pos_8"
+    },
+    {
+      "id": "m_2",
+      "age": 52,
+      "sex": "man",
+      "skin_colour": "wit",
+      "name": "Mostafa",
+      "hair_style": "kaal",
+      "facial_hair": "baard",
+      "hair_type": "geen",
+      "hair_colour": "geen",
+      "accessory": "pet",
+      "top": "rood_zwembroek",
+      "bottom": "rood_zwembroek",
+      "shoes": "geen",
+      "position": "pos_3"
+    },
+    {
+      "id": "m_3",
+      "age": 56,
+      "sex": "vrouw",
+      "skin_colour": "van_kleur",
+      "name": "Zahra",
+      "hair_style": "paardenstaart",
+      "facial_hair": "none",
+      "hair_type": "stijl_haar",
+      "hair_colour": "grijs",
+      "accessory": "oorbellen",
+      "top": "bruin_badpak",
+      "bottom": "bruin_badpak",
+      "shoes": "geen",
+      "position": "pos_7"
+    }
+  ],
+  "side_characters": [
+    {
+      "id": "s_0",
+      "age": 67,
+      "sex": "vrouw",
+      "skin_colour": "wit",
+      "name": "none",
+      "hair_style": "kort",
+      "facial_hair": "none",
+      "hair_type": "krulhaar",
+      "hair_colour": "grijs",
+      "accessory": "oorbellen",
+      "top": "blauw_badpak",
+      "bottom": "blauw_badpak",
+      "shoes": "geen",
+      "position": "pos_6"
+    },
+    {
+      "id": "s_1",
+      "age": 69,
+      "sex": "vrouw",
+      "skin_colour": "wit",
+      "name": "none",
+      "hair_style": "kort",
+      "facial_hair": "none",
+      "hair_type": "stijl_haar",
+      "hair_colour": "grijs",
+      "accessory": "pet",
+      "top": "bruin_bikini",
+      "bottom": "bruin_bikini",
+      "shoes": "geen",
+      "position": "pos_9"
+    },
+    {
+      "id": "s_2",
+      "age": 46,
+      "sex": "man",
+      "skin_colour": "wit",
+      "name": "geen",
+      "hair_style": "paardenstaart",
+      "facial_hair": "geen",
+      "hair_type": "krulhaar",
+      "hair_colour": "roze_geverfd",
+      "accessory": "pet",
+      "top": "rood_zwembroek",
+      "bottom": "rood_zwembroek",
+      "shoes": "geen",
+      "position": "pos_2"
+    }
+  ]
+}
