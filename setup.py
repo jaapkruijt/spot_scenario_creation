@@ -20,6 +20,7 @@ setup(
     },
     package_dir={'': 'src'},
     packages=find_namespace_packages(include=['spot.*', 'spot_service.*'], where='src'),
+    data_files=[('VERSION', ['VERSION'])],
     package_data={},
     python_requires='>=3.7',
     install_requires=[
