@@ -16,7 +16,6 @@ from cltl.brain.long_term_memory import LongTermMemory
 from cltl.brain.utils.helper_functions import brain_response_to_json
 from cltl.brain.LTM_statement_processing import process_statement
 from cltl.commons.discrete import UtteranceType
-from tqdm import tqdm
 import os
 
 
@@ -158,7 +157,7 @@ def process_visual_information(scenario_id: str, scene_metadata: dict):
 def main(log_path):
     game_directory = 'game_scenarios/robot'
     # create EMISSOR storage
-    storage = ScenarioStorage('./data')
+    storage = ScenarioStorage('../../../data')
     # main_subjects = define_main_characters(main_chars)
 
     # Create brain connection
